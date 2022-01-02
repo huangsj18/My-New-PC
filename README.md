@@ -11,7 +11,23 @@
 3. 如果操作系统是纯净版会缺少驱动（比如无线网卡连不了wifi、没显卡驱动调节不了亮度、指纹用不了等），用手机usb连接电脑共享网络，下载驱动精灵。
 
 --------------------
+### 下载vpn
+https://portal.shadowsocks.nz/
+
+--------------------
 ### 激活windows
+http://www.yishimei.cn/network/319.html
+
+--------------------
+### 安装一些软件（先下迅雷）
+http://www.yishimei.cn/network/290.html
+1. visio
+2. office
 
 --------------------
 ### 安装常用软件
+1. Chrome
+2. WeChat
+3. 7-zip
+4. notepad++
+5. everything
