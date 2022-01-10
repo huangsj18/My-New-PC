@@ -31,3 +31,9 @@ http://www.yishimei.cn/network/290.html
 3. 7-zip
 4. notepad++
 5. everything
+6. topyra（https://iswbm.com/600.html ）（最后的免费版）
+    - Linux：https://wwe.lanzoui.com/igFedwzagle
+    - MacOS：https://wwe.lanzoui.com/ip9ijwzagpi
+    - Windows：https://iswbm.com/600.html
+    - https://typora.io/#download 找历史版本下载
+7. Git
